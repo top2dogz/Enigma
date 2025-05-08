@@ -1,4 +1,5 @@
-Enigma
+**Enigma**
+
 A simulation of the Enigma machines that Germany used during World War II to encrypt its military communications
 
 To run the program on the command line, first compile all of the files with
